@@ -14,7 +14,7 @@ An end-to-end binary sentiment classifier for the IMDB 50K movie reviews dataset
 
 ## Pipeline
 
-![Project pipeline](images/pipeline.png)
+![Project pipeline](pipeline.png)
 
 ## Project Structure
 
