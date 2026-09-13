@@ -2,7 +2,7 @@
 
 ### Binary Sentiment Classification with Logistic Regression
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/imdb-sentiment-classifier/blob/main/notebooks/IMDB_Logistic_Regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CdEjtpgBjr69_oXFWtqqHJglTJy7rdo_)
 
 ![Project cover](images/cover.jpg)
 
@@ -34,7 +34,7 @@ imdb-sentiment-classifier/
 └── README.md
 ```
 
-> **Setup note:** after you push this repo, replace `YOUR-USERNAME` in the Colab link above with your actual GitHub username so it opens your copy of the notebook.
+> **Note:** the badge above opens the author's own Colab copy of the notebook (hosted on Google Drive). If you don't have access, use **File → Save a copy in Drive** once it opens, or run the copy in `notebooks/` locally / via your own GitHub-hosted Colab link instead.
 
 ## Run in Google Colab
 
