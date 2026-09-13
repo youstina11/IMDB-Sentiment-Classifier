@@ -4,7 +4,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CdEjtpgBjr69_oXFWtqqHJglTJy7rdo_)
 
-![Project cover](images/cover.jpg)
+![Project cover](Gemini_Generated_Image_r1e0rjr1e0rjr1e0.jpeg)
 
 ## Description
 
