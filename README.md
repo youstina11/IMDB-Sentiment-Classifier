@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.x-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/imdb-sentiment-classifier/blob/main/notebooks/IMDB_Logistic_Regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CdEjtpgBjr69_oXFWtqqHJglTJy7rdo_#scrollTo=6ddcc07a/blob/main/notebooks/IMDB_Logistic_Regression.ipynb)
 
 ![Project cover](images/cover.png)
 
