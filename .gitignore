@@ -1,0 +1,24 @@
+# Data (large, download separately — see data/README.md)
+data/*.csv
+data/IMDB_Dataset.csv
+
+# Generated artifacts
+model_results.db
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rendered pages (from doc verification)
+page-*.jpg
+*.pdf
